@@ -1,0 +1,2 @@
+*.wpress filter=lfs diff=lfs merge=lfs -text
+wp-content/ai1wm-backups/localhost-crypto-20210919-111949-ofltl0.wpress filter=lfs diff=lfs merge=lfs -text
